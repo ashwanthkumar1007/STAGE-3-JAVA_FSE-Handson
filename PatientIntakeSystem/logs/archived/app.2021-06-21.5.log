@@ -1,0 +1,121 @@
+2021-06-21 22:52:52,927 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2021-06-21 22:52:53,189 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2021-06-21 22:52:53,230 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2021-06-21 22:53:04,672 INFO com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] Starting PatientIntakeSystemApplication using Java 16.0.1 on WINDOWS-TR6OMS5 with PID 12000 (D:\full stack crash course\JAVA Spring\PatientIntakeSystem\target\classes started by ashva in D:\full stack crash course\JAVA Spring\PatientIntakeSystem)
+2021-06-21 22:53:04,673 DEBUG com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-21 22:53:04,673 INFO com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-06-21 22:53:04,925 INFO com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] Starting PatientIntakeSystemApplication using Java 16.0.1 on WINDOWS-TR6OMS5 with PID 12000 (D:\full stack crash course\JAVA Spring\PatientIntakeSystem\target\classes started by ashva in D:\full stack crash course\JAVA Spring\PatientIntakeSystem)
+2021-06-21 22:53:04,925 DEBUG com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-21 22:53:04,925 INFO com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-06-21 22:53:04,980 INFO com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] Starting PatientIntakeSystemApplication using Java 16.0.1 on WINDOWS-TR6OMS5 with PID 12000 (D:\full stack crash course\JAVA Spring\PatientIntakeSystem\target\classes started by ashva in D:\full stack crash course\JAVA Spring\PatientIntakeSystem)
+2021-06-21 22:53:04,980 DEBUG com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-21 22:53:04,980 INFO com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-06-21 22:53:05,082 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2021-06-21 22:53:05,156 INFO com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] Starting PatientIntakeSystemApplication using Java 16.0.1 on WINDOWS-TR6OMS5 with PID 12000 (D:\full stack crash course\JAVA Spring\PatientIntakeSystem\target\classes started by ashva in D:\full stack crash course\JAVA Spring\PatientIntakeSystem)
+2021-06-21 22:53:05,157 DEBUG com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-21 22:53:05,157 INFO com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-06-21 22:53:05,498 INFO com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] Started PatientIntakeSystemApplication in 0.588 seconds (JVM running for 191.697)
+2021-06-21 22:53:05,514 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2021-06-21 22:53:05,681 INFO com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] Starting PatientIntakeSystemApplication using Java 16.0.1 on WINDOWS-TR6OMS5 with PID 12000 (D:\full stack crash course\JAVA Spring\PatientIntakeSystem\target\classes started by ashva in D:\full stack crash course\JAVA Spring\PatientIntakeSystem)
+2021-06-21 22:53:05,682 DEBUG com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-21 22:53:05,682 INFO com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-06-21 22:53:05,698 INFO com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] Started PatientIntakeSystemApplication in 0.617 seconds (JVM running for 191.897)
+2021-06-21 22:53:05,981 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2021-06-21 22:53:16,781 INFO com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] Starting PatientIntakeSystemApplication using Java 16.0.1 on WINDOWS-TR6OMS5 with PID 35780 (D:\full stack crash course\JAVA Spring\PatientIntakeSystem\target\classes started by ashva in D:\full stack crash course\JAVA Spring\PatientIntakeSystem)
+2021-06-21 22:53:16,785 DEBUG com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-21 22:53:16,786 INFO com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] No active profile set, falling back to default profiles: default
+2021-06-21 22:53:19,312 ERROR org.springframework.boot.diagnostics.LoggingFailureAnalysisReporter [restartedMain] 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Web server failed to start. Port 8080 was already in use.
+
+Action:
+
+Identify and stop the process that's listening on port 8080 or configure this application to listen on another port.
+
+2021-06-21 22:53:53,655 INFO com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] Starting PatientIntakeSystemApplication using Java 16.0.1 on WINDOWS-TR6OMS5 with PID 31972 (D:\full stack crash course\JAVA Spring\PatientIntakeSystem\target\classes started by ashva in D:\full stack crash course\JAVA Spring\PatientIntakeSystem)
+2021-06-21 22:53:53,657 DEBUG com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] Running with Spring Boot v2.5.1, Spring v5.3.8
+2021-06-21 22:53:53,658 INFO com.cognizant.patientintakesystem.PatientIntakeSystemApplication [restartedMain] No active profile set, falling back to default profiles: default
